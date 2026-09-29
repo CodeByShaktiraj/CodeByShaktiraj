@@ -122,15 +122,26 @@ A full-stack video streaming platform where creators can manage content and user
 
 ### ✨ Features
 
-* 🎬 Video uploading and streaming
-* 👍 Likes, comments and subscriptions
-* 🔎 AI-powered search and recommendations
-* 📊 Creator analytics dashboard
-* 💰 Views and revenue tracking
-* 🔐 JWT + Google OAuth authentication
-* 📧 Email OTP recovery
-* ☁️ Cloudinary + Multer media uploads
+- 🎬 Video uploading and streaming
+- 👍 Likes, comments and subscriptions
+- 🔎 AI-powered search and recommendations
+- 📊 Creator analytics dashboard
+- 💰 Views and revenue tracking
+- 🔐 JWT + Google OAuth authentication
+- 📧 Email OTP recovery
+- ☁️ Cloudinary + Multer media uploads
 
+<div align="center">
+
+<a href="https://viewtube-frontend1.onrender.com/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/CodeByShaktiraj/ViewTube">
+<img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 ## 💬 DG Chat — Real-Time Communication Application
@@ -150,6 +161,23 @@ A real-time communication platform designed for instant messaging and image shar
 * 🎨 Responsive Tailwind CSS interface
 
 ---
+## 🤖 REAI — AI-Powered Application
+
+**React.js • Node.js • Express.js • MongoDB • AI Integration**
+
+An AI-powered application designed to provide intelligent and useful AI-driven features through a modern full-stack web interface.
+
+<div align="center">
+
+<a href="https://reai-1.onrender.com">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/CodeByShaktiraj/REAI">
+<img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 # 🧠 Problem Solving
 
