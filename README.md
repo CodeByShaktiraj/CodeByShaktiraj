@@ -318,11 +318,9 @@ while (learning) {
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeByShaktiraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?usernameCodeByShaktiraj&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://komarev.com/ghpvc/?username=CodeByShaktiraj&style=for-the-badge&color=0891b2"/>
 </div>
 
 ---
